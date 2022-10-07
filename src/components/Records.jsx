@@ -2,7 +2,7 @@ import React from "react";
 
 const Records = ({ data }) => {
   return (
-    <table>
+    <table className="table">
       <thead>
         <tr>
           <th scope="col">ID</th>
